@@ -4,11 +4,7 @@
   "description": "learning express, node js and mongodb",
   "main": "app.js",
   "scripts": {
-<<<<<<< HEAD
     "start": "node server.js",
-=======
-   "start": "node server.js",
->>>>>>> 3e800cdca98f6f29e117e8a2e7e5f0f855216a3c
     "dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
     "debug": "ndb server.js",
